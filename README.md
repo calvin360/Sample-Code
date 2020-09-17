@@ -1,2 +1,1 @@
-# Sample-Code
-# This repo will contain sample code for different languages
+# This repo contains sample code in C/C++ and Assembly written by me.
